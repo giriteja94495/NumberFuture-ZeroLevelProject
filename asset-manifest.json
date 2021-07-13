@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NumberFuture-ZeroLevelProject/static/css/main.5c153d07.chunk.css",
+    "main.js": "/NumberFuture-ZeroLevelProject/static/js/main.659a85c1.chunk.js",
+    "main.js.map": "/NumberFuture-ZeroLevelProject/static/js/main.659a85c1.chunk.js.map",
+    "runtime-main.js": "/NumberFuture-ZeroLevelProject/static/js/runtime-main.b5999479.js",
+    "runtime-main.js.map": "/NumberFuture-ZeroLevelProject/static/js/runtime-main.b5999479.js.map",
+    "static/js/2.e18f7cae.chunk.js": "/NumberFuture-ZeroLevelProject/static/js/2.e18f7cae.chunk.js",
+    "static/js/2.e18f7cae.chunk.js.map": "/NumberFuture-ZeroLevelProject/static/js/2.e18f7cae.chunk.js.map",
+    "static/js/3.9982ec6a.chunk.js": "/NumberFuture-ZeroLevelProject/static/js/3.9982ec6a.chunk.js",
+    "static/js/3.9982ec6a.chunk.js.map": "/NumberFuture-ZeroLevelProject/static/js/3.9982ec6a.chunk.js.map",
+    "index.html": "/NumberFuture-ZeroLevelProject/index.html",
+    "static/css/main.5c153d07.chunk.css.map": "/NumberFuture-ZeroLevelProject/static/css/main.5c153d07.chunk.css.map",
+    "static/js/2.e18f7cae.chunk.js.LICENSE.txt": "/NumberFuture-ZeroLevelProject/static/js/2.e18f7cae.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NumberFuture-ZeroLevelProject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5999479.js",
+    "static/js/2.e18f7cae.chunk.js",
+    "static/css/main.5c153d07.chunk.css",
+    "static/js/main.659a85c1.chunk.js"
+  ]
+}
